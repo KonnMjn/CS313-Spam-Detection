@@ -50,7 +50,7 @@ cd spam-detection-fpgrowth
 
 ## ▶️ How to Run
 You can run the notebook:
-jupyter notebook FPGrowth_Spam-Detection.ipynb
+jupyter notebook FPGrowth_Spam-Detection.ipynb.
 Or open it in Google Colab/Kaggle.
 
 ---
