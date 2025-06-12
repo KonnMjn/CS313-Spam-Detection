@@ -1,6 +1,6 @@
 # 📧 Spam Detection using FP-Growth and Association Rules
 
-This project applies the **FP-Growth Pattern Mining** and **Association Rule Learning** to detect spam emails from SMS messages.
+This project applies the **FP-Growth Pattern Mining** and **Association Rule Learning** to detect spam emails.
 
 > 📁 Jupyter Notebook: [`main.ipynb`](./main.ipynb)  
 > 🎥 Presentation Slides: [`Project Presentation.pdf`](./slides/Project%20Presentation.pdf)
