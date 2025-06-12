@@ -46,10 +46,14 @@ We used the SMS Spam Collection Dataset from [Kaggle](https://www.kaggle.com/dat
 git clone https://github.com/yourusername/spam-detection-fpgrowth.git
 cd spam-detection-fpgrowth
 
+---
+
 ## ▶️ **How to Run**
 You can run the notebook:
 jupyter notebook FPGrowth_Spam-Detection.ipynb
 Or open it in Google Colab/Kaggle.
+
+---
 
 ## 👨‍🏫 **Credits**
 Group 10:
