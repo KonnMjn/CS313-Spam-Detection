@@ -42,8 +42,8 @@ We used the SMS Spam Collection Dataset from [Kaggle](https://www.kaggle.com/dat
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/spam-detection-fpgrowth.git
-cd spam-detection-fpgrowth
+git clone https://github.com/yourusername/CS313-Spam-Detection-with-FPGrowth.git
+cd CS313-Spam-Detection-with-FPGrowth
 ```
 
 ---
