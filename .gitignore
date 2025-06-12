@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dữ liệu hoặc kết quả tạm
+*.csv
+*.xlsx
+data/
+output/
+
+# File môi trường
+.env
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
