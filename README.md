@@ -13,7 +13,6 @@ This project applies the **FP-Growth Pattern Mining** and **Association Rule Lea
 - [Methodology](#methodology)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
-- [Results](#results)
 - [Credits](#credits)
 
 ---
