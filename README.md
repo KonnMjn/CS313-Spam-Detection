@@ -56,7 +56,6 @@ Or run it with Google Colab/Kaggle.
 ---
 
 ## 👨‍🏫 Credits
-Group 10:
 
 Lương Anh Huy – 22520550
 
@@ -64,6 +63,6 @@ Phạm Đông Hưng – 22520521
 
 Phan Công Minh - 22520884
 
-Instructor: Võ Nguyễn Lê Duy
+Instructor: TS. Võ Nguyễn Lê Duy
 
 ---
