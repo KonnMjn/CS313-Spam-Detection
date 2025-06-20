@@ -1,11 +1,6 @@
 # 📧 Spam Detection using FP-Growth and Association Rules
 
-This project applies the **FP-Growth Pattern Mining** and **Association Rule Learning** to detect spam emails.
-
-> 📁 Jupyter Notebook: [`main.ipynb`](./main.ipynb)  
-> 🎥 Presentation Slides: [`Project Presentation.pdf`](./slides/Project%20Presentation.pdf)
-
----
+Dự án áp dụng **FP-Growth Pattern Mining** và **Association Rule Learning** để phát hiện thư rác.
 
 ## 📌 Table of Contents
 
@@ -18,9 +13,9 @@ This project applies the **FP-Growth Pattern Mining** and **Association Rule Lea
 
 ---
 
-## 📊 Dataset
+## 📦 Dataset
 
-We used the SMS Spam Collection Dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+Sử dụng dataset từ [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 - **Total messages:** 5,572
 - **Spam:** 747 (13.4%)
@@ -39,21 +34,13 @@ We used the SMS Spam Collection Dataset from [Kaggle](https://www.kaggle.com/dat
 
 ---
 
-## 💻 Installation
+## 🚀 How to Run
 
-1. Clone this repo:
+Clone this repo:
 ```bash
-git clone https://github.com/KonnMjn/CS313-Spam-Detection-with-FPGrowth.git
-cd CS313-Spam-Detection-with-FPGrowth
+git clone https://github.com/KonnMjn/CS313-Spam-Detection.git
+cd CS313-Spam-Detection
 ```
-
----
-
-## ▶️ How to Run
-You can run the notebook:
-jupyter notebook FPGrowth_Spam-Detection.ipynb.
-Or run it with Google Colab/Kaggle.
-
 ---
 
 ## 📄 License
