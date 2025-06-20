@@ -1,6 +1,6 @@
 # 📧 Spam Detection using FP-Growth and Association Rules
 
-Dự án áp dụng **FP-Growth Pattern Mining** và **Association Rule Learning** để phát hiện thư rác.
+This project applies the **FP-Growth Pattern Mining** and **Association Rule Learning** to detect spam emails from SMS messages.
 
 ## 📌 Table of Contents
 
