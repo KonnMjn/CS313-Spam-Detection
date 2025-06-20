@@ -13,6 +13,7 @@ This project applies the **FP-Growth Pattern Mining** and **Association Rule Lea
 - [Methodology](#methodology)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
+- [License](#license)
 - [Credits](#credits)
 
 ---
@@ -52,6 +53,13 @@ cd CS313-Spam-Detection-with-FPGrowth
 You can run the notebook:
 jupyter notebook FPGrowth_Spam-Detection.ipynb.
 Or run it with Google Colab/Kaggle.
+
+---
+
+## 📄 License
+📌 Code components (if added later) are licensed under the MIT License, allowing reuse, modification, and distribution with attribution and no warranty.
+
+📎 Non-code contents (e.g., Report, Poster) are shared under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), allowing reuse with attribution for non-commercial purposes.
 
 ---
 
